@@ -26,7 +26,7 @@ Further investigation will focus on refining computational designs to optimize n
 ## Skills & Tools Used
 - **Microscopy Techniques**: Super-resolution imaging, PAINT
 - **Data Analysis**: Spectrophotometry, emission data interpretation
-- **Software**: Python, MatLab for data visualization and analysis
+- **Software**: MatLab for data visualization and analysis
 
 ## Report
 For the full research details, methodologies, and results, refer to the [Research Report](Research_Report.pdf).
